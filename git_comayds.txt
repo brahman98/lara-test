@@ -7,4 +7,5 @@ git add - добавить изменения в гит
 git commit -m "Новая ветка" - делаем коммиты
 git checkout -b newbranch - создать новую ветку и в нее перейти.
 git branch -m newname - переименование текущей ветки
+git checkout e69d9322f4bea0e2f622ab507ac6a6538d346c83 - откат к старому коммиту
 
