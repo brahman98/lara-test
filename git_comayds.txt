@@ -11,3 +11,5 @@ git checkout e69d9322f4bea0e2f622ab507ac6a6538d346c83 - откат к старо
 git branch -D develop - удалить ветку девелоп
 git push - залить ветку на гитхаб
 
+ffffffffffffff
+ffffffffffffffff
